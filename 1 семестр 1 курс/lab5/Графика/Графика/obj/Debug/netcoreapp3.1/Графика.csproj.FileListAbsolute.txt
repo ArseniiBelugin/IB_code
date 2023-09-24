@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.Form1.resources
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.GenerateResource.cache
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.AssemblyInfo.cs
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.exe
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.deps.json
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.runtimeconfig.json
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.runtimeconfig.dev.json
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.dll
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.pdb
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.dll
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.pdb
+C:\Users\User\Desktop\дз информ\lab6\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.genruntimeconfig.cache
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.exe
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.deps.json
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.runtimeconfig.json
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.runtimeconfig.dev.json
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.dll
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\bin\Debug\netcoreapp3.1\Графика.pdb
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.Form1.resources
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.GenerateResource.cache
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.AssemblyInfo.cs
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.dll
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.pdb
+C:\Users\User\Desktop\дз информ\1 семестр 1 курс\lab5\Графика\Графика\obj\Debug\netcoreapp3.1\Графика.genruntimeconfig.cache

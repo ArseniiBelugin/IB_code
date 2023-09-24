@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\bin\Debug\дз.exe.config
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\bin\Debug\дз.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\bin\Debug\дз.pdb
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\obj\Debug\дз.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\obj\Debug\дз.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\дз\дз\obj\Debug\дз.pdb

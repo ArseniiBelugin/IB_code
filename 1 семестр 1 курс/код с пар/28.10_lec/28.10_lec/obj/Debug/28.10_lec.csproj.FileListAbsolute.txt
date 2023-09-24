@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\bin\Debug\28.10_lec.exe.config
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\bin\Debug\28.10_lec.exe
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\bin\Debug\28.10_lec.pdb
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\obj\Debug\28.10_lec.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\obj\Debug\28.10_lec.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\obj\Debug\28.10_lec.exe
+C:\Users\User\Desktop\дз информ\28.10_lec\28.10_lec\obj\Debug\28.10_lec.pdb

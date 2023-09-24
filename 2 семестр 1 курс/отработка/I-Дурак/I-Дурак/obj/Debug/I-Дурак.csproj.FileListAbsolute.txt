@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\bin\Debug\I-Дурак.exe.config
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\bin\Debug\I-Дурак.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\bin\Debug\I-Дурак.pdb
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\obj\Debug\I-Дурак.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\obj\Debug\I-Дурак.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\obj\Debug\I-Дурак.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\I-Дурак\I-Дурак\obj\Debug\I-Дурак.pdb

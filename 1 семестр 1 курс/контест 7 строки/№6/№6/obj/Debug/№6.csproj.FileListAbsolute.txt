@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\bin\Debug\№6.exe.config
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\bin\Debug\№6.exe
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\bin\Debug\№6.pdb
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\obj\Debug\№6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\obj\Debug\№6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\obj\Debug\№6.exe
+C:\Users\User\Desktop\дз информ\контест 7 строки\№6\№6\obj\Debug\№6.pdb

@@ -1,0 +1,7 @@
+H:\C#\08.10.2021\kol-vo_seriy\bin\Debug\kol-vo_seriy.exe.config
+H:\C#\08.10.2021\kol-vo_seriy\bin\Debug\kol-vo_seriy.exe
+H:\C#\08.10.2021\kol-vo_seriy\bin\Debug\kol-vo_seriy.pdb
+H:\C#\08.10.2021\kol-vo_seriy\obj\Debug\kol-vo_seriy.csprojAssemblyReference.cache
+H:\C#\08.10.2021\kol-vo_seriy\obj\Debug\kol-vo_seriy.csproj.CoreCompileInputs.cache
+H:\C#\08.10.2021\kol-vo_seriy\obj\Debug\kol-vo_seriy.exe
+H:\C#\08.10.2021\kol-vo_seriy\obj\Debug\kol-vo_seriy.pdb

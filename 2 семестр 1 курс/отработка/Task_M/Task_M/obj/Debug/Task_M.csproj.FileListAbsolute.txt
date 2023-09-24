@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\bin\Debug\Task_M.exe.config
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\bin\Debug\Task_M.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\bin\Debug\Task_M.pdb
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\obj\Debug\Task_M.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\obj\Debug\Task_M.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\obj\Debug\Task_M.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\отработка\Task_M\Task_M\obj\Debug\Task_M.pdb

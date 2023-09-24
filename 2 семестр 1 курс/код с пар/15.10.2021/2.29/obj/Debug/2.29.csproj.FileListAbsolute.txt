@@ -1,0 +1,14 @@
+H:\2.29\bin\Debug\2.29.exe.config
+H:\2.29\bin\Debug\2.29.exe
+H:\2.29\bin\Debug\2.29.pdb
+H:\2.29\obj\Debug\2.29.csprojAssemblyReference.cache
+H:\2.29\obj\Debug\2.29.csproj.CoreCompileInputs.cache
+H:\2.29\obj\Debug\2.29.exe
+H:\2.29\obj\Debug\2.29.pdb
+H:\C#\15.10.2021\2.29\bin\Debug\2.29.exe.config
+H:\C#\15.10.2021\2.29\bin\Debug\2.29.exe
+H:\C#\15.10.2021\2.29\bin\Debug\2.29.pdb
+H:\C#\15.10.2021\2.29\obj\Debug\2.29.csprojAssemblyReference.cache
+H:\C#\15.10.2021\2.29\obj\Debug\2.29.csproj.CoreCompileInputs.cache
+H:\C#\15.10.2021\2.29\obj\Debug\2.29.exe
+H:\C#\15.10.2021\2.29\obj\Debug\2.29.pdb

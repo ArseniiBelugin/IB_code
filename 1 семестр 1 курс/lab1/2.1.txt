@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("введите а");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("веедите b");
+            int b = int.Parse(Console.ReadLine());
+            if (a == 0){
+                if (b == 0){
+                    Console.WriteLine("INF");
+                }else{
+                    Console.WriteLine ("NO");
+                }
+            }else{
+                double x = - b / a;
+                Console.WriteLine($"{x}");
+            };
+        }
+    }
+}

@@ -1,0 +1,19 @@
+using System;
+class Proba {
+  static void Main() {
+    Console.WriteLine("Введите первую клетку");
+    int n = int.Parse(Console.ReadLine());
+    int a1 = n / 10,
+        a2 = n % 10;
+    Console.WriteLine("Введите вторую клетку");
+    int k = int.Parse(Console.ReadLine());
+    int b1 = k / 10,
+        b2 = k % 10;
+    if(((((a1 - a2) == -1 || (a1 - a2) == 1) && ((b1 - b2) == -2 || (b1 - b2) == 2)) || (((a1 - a2) == -2 || (a1 - a2) == 2)) && ((b1 - b2) == -1 || (b1 - b2) == 1))){
+        Console.WriteLine("yes");
+    }else
+    {
+        Console.WriteLine("no");
+    };
+  }
+}

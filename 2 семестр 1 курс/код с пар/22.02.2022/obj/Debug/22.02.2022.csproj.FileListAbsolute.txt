@@ -1,0 +1,7 @@
+H:\22.02.2022\bin\Debug\22.02.2022.exe.config
+H:\22.02.2022\bin\Debug\22.02.2022.exe
+H:\22.02.2022\bin\Debug\22.02.2022.pdb
+H:\22.02.2022\obj\Debug\22.02.2022.csprojAssemblyReference.cache
+H:\22.02.2022\obj\Debug\22.02.2022.csproj.CoreCompileInputs.cache
+H:\22.02.2022\obj\Debug\22.02.2022.exe
+H:\22.02.2022\obj\Debug\22.02.2022.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\bin\Debug\№4.exe.config
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\bin\Debug\№4.exe
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\bin\Debug\№4.pdb
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\obj\Debug\№4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\obj\Debug\№4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\obj\Debug\№4.exe
+C:\Users\User\Desktop\дз информ\lab Arina\№4\№4\obj\Debug\№4.pdb
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\bin\Debug\№4.exe.config
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\bin\Debug\№4.exe
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\bin\Debug\№4.pdb
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\obj\Debug\№4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\obj\Debug\№4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\obj\Debug\№4.exe
+C:\Users\User\Desktop\дз информ\lab3\№4\№4\obj\Debug\№4.pdb

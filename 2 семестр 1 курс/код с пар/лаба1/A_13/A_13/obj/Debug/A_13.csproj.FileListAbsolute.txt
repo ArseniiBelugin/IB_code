@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\bin\Debug\A_13.exe.config
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\bin\Debug\A_13.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\bin\Debug\A_13.pdb
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\obj\Debug\A_13.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\obj\Debug\A_13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\obj\Debug\A_13.exe
+C:\Users\User\Desktop\дз информ\2 семестр 1 курс\лаба1\A_13\A_13\obj\Debug\A_13.pdb

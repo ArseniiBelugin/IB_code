@@ -1,0 +1,7 @@
+H:\C#\15.02.2022 fib\fib\bin\Debug\fib.exe.config
+H:\C#\15.02.2022 fib\fib\bin\Debug\fib.exe
+H:\C#\15.02.2022 fib\fib\bin\Debug\fib.pdb
+H:\C#\15.02.2022 fib\fib\obj\Debug\fib.csprojAssemblyReference.cache
+H:\C#\15.02.2022 fib\fib\obj\Debug\fib.csproj.CoreCompileInputs.cache
+H:\C#\15.02.2022 fib\fib\obj\Debug\fib.exe
+H:\C#\15.02.2022 fib\fib\obj\Debug\fib.pdb

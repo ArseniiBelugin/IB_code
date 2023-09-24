@@ -1,0 +1,29 @@
+using System;
+class Proba {
+  static void Main() {
+    Console.WriteLine("Введите первое число");
+    int x1 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Введите второе число");
+    int x2 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Введите третье число");
+    int x3 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Введите четвертое число");
+    int x4 = int.Parse(Console.ReadLine());
+        if (x1 == x2){
+            if (x2 == x3){
+                Console.WriteLine($"4 {x4}");
+            }else
+            {
+                Console.WriteLine($"3 {x3}");
+            }
+        }else
+        {if (x1 == x3){
+                Console.WriteLine($"2 {x2}");
+            }else
+            {
+                Console.WriteLine($"1 {x1}");
+            }
+        }
+    
+  }
+}

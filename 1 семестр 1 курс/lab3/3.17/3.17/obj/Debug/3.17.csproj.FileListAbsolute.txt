@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\obj\Debug\3.17.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\obj\Debug\3.17.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\bin\Debug\3.17.exe.config
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\bin\Debug\3.17.exe
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\bin\Debug\3.17.pdb
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\obj\Debug\3.17.exe
+C:\Users\User\Desktop\дз информ\lab3\3.17\3.17\obj\Debug\3.17.pdb

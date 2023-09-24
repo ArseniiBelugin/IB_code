@@ -1,0 +1,7 @@
+H:\C#\15.02.2022 fib\Podpos\bin\Debug\Podpos.exe.config
+H:\C#\15.02.2022 fib\Podpos\bin\Debug\Podpos.exe
+H:\C#\15.02.2022 fib\Podpos\bin\Debug\Podpos.pdb
+H:\C#\15.02.2022 fib\Podpos\obj\Debug\Podpos.csprojAssemblyReference.cache
+H:\C#\15.02.2022 fib\Podpos\obj\Debug\Podpos.csproj.CoreCompileInputs.cache
+H:\C#\15.02.2022 fib\Podpos\obj\Debug\Podpos.exe
+H:\C#\15.02.2022 fib\Podpos\obj\Debug\Podpos.pdb

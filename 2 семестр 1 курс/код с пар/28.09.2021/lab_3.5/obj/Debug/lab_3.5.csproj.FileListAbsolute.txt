@@ -1,0 +1,7 @@
+H:\C#\28.09.2021\lab_3.5\bin\Debug\lab_3.5.exe.config
+H:\C#\28.09.2021\lab_3.5\bin\Debug\lab_3.5.exe
+H:\C#\28.09.2021\lab_3.5\bin\Debug\lab_3.5.pdb
+H:\C#\28.09.2021\lab_3.5\obj\Debug\lab_3.5.csprojAssemblyReference.cache
+H:\C#\28.09.2021\lab_3.5\obj\Debug\lab_3.5.csproj.CoreCompileInputs.cache
+H:\C#\28.09.2021\lab_3.5\obj\Debug\lab_3.5.exe
+H:\C#\28.09.2021\lab_3.5\obj\Debug\lab_3.5.pdb

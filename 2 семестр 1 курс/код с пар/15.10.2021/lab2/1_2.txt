@@ -1,0 +1,98 @@
+/*lab 2 #1.2
+*Belugin Arseniy IB11-BO
+*y = cos Text
+*/
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Rextester
+{
+    class Program
+    {
+        static void tabulation(double A, double B, double dx, double eps)
+        {
+            Console.WriteLine("|x         |f1(x)     |f2(x)     |f3(x)");
+            for (double x=A; x <= B; x += dx)
+            {
+                Console.WriteLine ("--------------------------------------------");
+                Console.WriteLine($"|{x,10:f5}|{Math.Cos(x),10:F5}|{Cos(x, eps),10:f5}|{Cos_smart(x, eps),10:f5}");
+            };
+        }
+        static void Main()
+        {
+            Console.Write("[A, B] = ");
+            string[] inputStrings = Console.ReadLine().Split(' ');
+            double A = double.Parse(inputStrings[0]),
+                   B = double.Parse(inputStrings[1]);
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            Console.Write ("E = ");
+            double eps = double.Parse(Console.ReadLine());
+            double dx = (B - A) / (N - 1);
+            tabulation(A, B, dx, eps);
+            Console.ReadKey();
+        }
+        //Реализация прямой функции
+        static double Cos(double x, double eps)
+        {
+            int n = 1;
+            double ai = power(-1, n) * power(x, 2 * n) / factorial(2 * n);
+            double summa = 1;
+            while (Math.Abs(ai) > eps)
+            {
+                summa += ai;
+                n++;
+                ai = power(-1, n) * power(x, 2 * n) / factorial(2 * n);
+            }
+            return summa;
+        }
+        static double factorial(int n)
+        {
+            double f = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                f *= i;
+            }
+            return f;
+        }
+        static double power(double a, int n)
+        {
+            if (n == 0) return 1;
+            if (a == 0) return 0;
+            double b = a, p = 1;
+            int k = n;
+            while (k != 0)
+            {
+                if (k % 2 == 0)
+                {
+                    b = b * b;
+                    k /= 2;
+                }
+                else
+                {
+                    p *= b;
+                    k--;
+                }
+            }
+            return p;
+        }
+        //Реализация умной функции
+        static double Cos_smart(double x, double eps)
+        {
+            int n = 0;
+            double ai = - x*x/2;
+            double summa = 1;
+            while (Math.Abs(ai) > eps)
+            {
+                summa += ai;
+                n = n + 2;
+                ai = - ai * x * x /((n + 1) * (n + 2));
+            };
+            return summa;
+        }
+    }
+}

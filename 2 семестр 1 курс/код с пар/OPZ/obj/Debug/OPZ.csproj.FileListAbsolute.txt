@@ -1,0 +1,7 @@
+H:\C#\OPZ\obj\Debug\OPZ.csprojAssemblyReference.cache
+H:\C#\OPZ\obj\Debug\OPZ.csproj.CoreCompileInputs.cache
+H:\C#\OPZ\bin\Debug\OPZ.exe.config
+H:\C#\OPZ\bin\Debug\OPZ.exe
+H:\C#\OPZ\bin\Debug\OPZ.pdb
+H:\C#\OPZ\obj\Debug\OPZ.exe
+H:\C#\OPZ\obj\Debug\OPZ.pdb

@@ -1,0 +1,12 @@
+using System;
+class Proba {
+  static void Main() {
+    Console.WriteLine("Введите число");
+    int n = int.Parse(Console.ReadLine());
+    if ((n / 1000 == n % 10) && (n / 100 % 10 == n % 100 / 10)){
+        Console.WriteLine("Yes");
+    }else{
+        Console.WriteLine("No");
+    }
+  }
+}

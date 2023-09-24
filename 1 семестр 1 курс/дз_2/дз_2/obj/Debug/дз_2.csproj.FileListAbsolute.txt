@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\bin\Debug\дз_2.exe.config
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\bin\Debug\дз_2.exe
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\bin\Debug\дз_2.pdb
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\obj\Debug\дз_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\obj\Debug\дз_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\obj\Debug\дз_2.exe
+C:\Users\User\Desktop\дз информ\дз_2\дз_2\obj\Debug\дз_2.pdb

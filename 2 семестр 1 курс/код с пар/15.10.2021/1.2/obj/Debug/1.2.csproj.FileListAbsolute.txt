@@ -1,0 +1,14 @@
+H:\1.2\bin\Debug\1.2.exe.config
+H:\1.2\bin\Debug\1.2.exe
+H:\1.2\bin\Debug\1.2.pdb
+H:\1.2\obj\Debug\1.2.csprojAssemblyReference.cache
+H:\1.2\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+H:\1.2\obj\Debug\1.2.exe
+H:\1.2\obj\Debug\1.2.pdb
+H:\C#\15.10.2021\1.2\bin\Debug\1.2.exe.config
+H:\C#\15.10.2021\1.2\bin\Debug\1.2.exe
+H:\C#\15.10.2021\1.2\bin\Debug\1.2.pdb
+H:\C#\15.10.2021\1.2\obj\Debug\1.2.csprojAssemblyReference.cache
+H:\C#\15.10.2021\1.2\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+H:\C#\15.10.2021\1.2\obj\Debug\1.2.exe
+H:\C#\15.10.2021\1.2\obj\Debug\1.2.pdb

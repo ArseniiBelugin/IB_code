@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\bin\Release\1.22.exe.config
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\bin\Release\1.22.exe
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\bin\Release\1.22.pdb
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\obj\Release\1.22.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\obj\Release\1.22.exe
+C:\Users\User\Desktop\дз информ\lab3\1.22\1.22\obj\Release\1.22.pdb

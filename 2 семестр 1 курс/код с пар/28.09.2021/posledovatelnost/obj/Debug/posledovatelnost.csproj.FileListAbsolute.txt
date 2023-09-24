@@ -1,0 +1,7 @@
+H:\C#\28.09.2021\posledovatelnost\obj\Debug\posledovatelnost.csprojAssemblyReference.cache
+H:\C#\28.09.2021\posledovatelnost\obj\Debug\posledovatelnost.csproj.CoreCompileInputs.cache
+H:\C#\28.09.2021\posledovatelnost\bin\Debug\posledovatelnost.exe.config
+H:\C#\28.09.2021\posledovatelnost\bin\Debug\posledovatelnost.exe
+H:\C#\28.09.2021\posledovatelnost\bin\Debug\posledovatelnost.pdb
+H:\C#\28.09.2021\posledovatelnost\obj\Debug\posledovatelnost.exe
+H:\C#\28.09.2021\posledovatelnost\obj\Debug\posledovatelnost.pdb

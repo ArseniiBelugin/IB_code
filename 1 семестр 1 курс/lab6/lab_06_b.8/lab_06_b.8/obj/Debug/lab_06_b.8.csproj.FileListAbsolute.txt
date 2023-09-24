@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\bin\Debug\lab_06_b.8.exe.config
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\bin\Debug\lab_06_b.8.exe
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\bin\Debug\lab_06_b.8.pdb
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\obj\Debug\lab_06_b.8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\obj\Debug\lab_06_b.8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\obj\Debug\lab_06_b.8.exe
+C:\Users\User\Desktop\дз информ\lab_06_b.8\lab_06_b.8\obj\Debug\lab_06_b.8.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\bin\Debug\Плоский Тензор.exe.config
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\bin\Debug\Плоский Тензор.exe
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\bin\Debug\Плоский Тензор.pdb
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\obj\Debug\Плоский Тензор.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\obj\Debug\Плоский Тензор.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\obj\Debug\Плоский Тензор.exe
+C:\Users\User\Desktop\дз информ\контест №3\Плоский Тензор\Плоский Тензор\obj\Debug\Плоский Тензор.pdb

@@ -1,0 +1,25 @@
+24
+push 3056
+pop
+push 2323
+push 1404
+max
+push 1052
+max
+push 8471
+push 8899
+max
+pop
+push 9781
+max
+pop
+push 1802
+push 3510
+max
+pop
+pop
+max
+push 7491
+max
+push 1839
+max

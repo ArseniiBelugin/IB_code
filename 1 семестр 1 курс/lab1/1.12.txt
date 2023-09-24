@@ -1,0 +1,18 @@
+using System;
+class HelloWorld {
+  static void Main() {
+    Console.WriteLine("Введите a");
+    double a = double.Parse(Console.ReadLine());
+    Console.WriteLine("Введите b");
+    double b = double.Parse(Console.ReadLine());
+    Console.WriteLine("Введите c");
+    double c = double.Parse(Console.ReadLine());
+    //a = a * Math.Pi / 180;
+    //b = b * Math.Pi / 180;
+    //c = c * Math.Pi / 180;
+    double s1 = Math.Sin (a) + Math.Sin(b) + Math.Sin (c) - Math.Sin(a + b)*Math.Cos(c) - Math.Cos(a + b)*Math.Sin(c);
+    double s2 = 4 * Math.Sin ((a + b) / 2) * Math.Sin ((b + c) / 2)* Math.Sin ((a + c) / 2);
+    double s3 = s1 - s2;
+    Console.WriteLine($"{s3:f6}");
+  }
+}
